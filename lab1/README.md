@@ -1,5 +1,6 @@
 **Instructions**
-This lab has two parts:
+
+- This lab has two parts:
 
 **Part A:**
 
